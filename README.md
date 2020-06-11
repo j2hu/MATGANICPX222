@@ -5,6 +5,7 @@ Mat-GAN
 train-set: `00000` `00002` `00003`
 
 test-set: the other samples
+
 GCN
 ------
 train-set: from `00000` to `00499`
